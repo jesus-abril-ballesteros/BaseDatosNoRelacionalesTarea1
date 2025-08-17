@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "689e987e62099ad130ef9156"
+  },
+  "Nombre": "Isabel",
+  "Apellido": "Salas",
+  "Edad": 23,
+  "Dirección": "San Bartolo",
+  "Carrera": "Biga Data"
+},
+{
+  "_id": {
+    "$oid": "689e991362099ad130ef9157"
+  },
+  "Nombre": "Nelly",
+  "Apellido": "SaRodriguez",
+  "Edad": 23,
+  "Dirección": "San Bartolo",
+  "Carrera": "Biga Data"
+}]

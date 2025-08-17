@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "689e8d6d62099ad130eb38d9"
+  },
+  "Anio_lectivo": "2009-2010 Inicio",
+  "Zona": "Zona 9",
+  "Provincia": "PICHINCHA",
+  "Cod_Provincia": 17,
+  "Canton": "QUITO",
+  "Cod_Canton": 1701,
+  "Parroquia": "CARCELEN",
+  "Cod_Parroquia": 170102,
+  "Nombre_Institucion": "ITALIA",
+  "AMIE": "17B00002",
+  "Tipo_Educacion": "Ordinario",
+  "Sostenimiento": "Particular",
+  "Area": "Urbana",
+  "Regimen_Escolar": "Sierra",
+  "Jurisdiccion": "Intercultural Bilingüe",
+  "Docentes_Femenino": 8,
+  "Docentes_Masculino": 5,
+  "Total_Docentes": 13,
+  "Estudiantes_Femenino": 47,
+  "Estudiantes_Masculino": 110,
+  "Total_Estudiantes": 157,
+  "Ecuatoriana": 149,
+  "Colombiana": 4,
+  "Venezolana": 0,
+  "Peruana": 0,
+  "Otros_Paises_de_America": 2,
+  "Otros_Continentes": 2
+}]
